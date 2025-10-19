@@ -1,6 +1,4 @@
-#Name of workflow pipeline
 name: github action demo pipeline
-#trigger event
 on:
    push:
        branches:
